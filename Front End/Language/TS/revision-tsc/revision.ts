@@ -1,5 +1,1 @@
-newFunction();
-
-function newFunction() {
-    console.log('good morning');
-}
+ console.log('good morning');

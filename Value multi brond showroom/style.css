@@ -1,3 +1,29 @@
-.name{
-    background-color: red;
+.row{
+    width: 380px;
+    height: 350px;
+    position: absolute;
+    margin: 7% auto;
+    background: white;
+    padding: 5px;
+}
+#root2{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(160, 247, 131);
+    border: 0.5px solid rgb(0, 0, 0);
+    position: absolute;
+    box-shadow: 0 0 10px #000;
+    position: absolute;
+    padding: 0.7px;
+    margin: 0.7px;
+}
+#root{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(118, 209, 228);
+    border: 0.5px solid rgb(0, 0, 0);
+    box-shadow: 0 0 10px #000;
+    padding: 0.7px;
+    margin: 0.7px;
+
 }

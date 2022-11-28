@@ -50,9 +50,11 @@ body {
 	color:white;
 }
 <style>
-        .This is My calculator{
+        .root{
             width: 200px;
             height: 200px;
             background-color: red;
         }
     </style>
+
+    <div class="root"></div>
